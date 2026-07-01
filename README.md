@@ -2,9 +2,9 @@
 
 Over 3 years production experience building secure firmware systems for embedded Linux devices. Currently exploring opportunities in embedded systems, firmware, and secure OTA infrastructure.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-suhas--p-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddu-suhas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddu--suhas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddu-suhas)
 [![Portfolio](https://img.shields.io/badge/Portfolio-suhasp.dev-6D5CF0?style=flat-square)](https://suhasp.dev)
-[![Email](https://img.shields.io/badge/Email-say%20hi-2EB8F2?style=flat-square&logo=maildotru&logoColor=white)](mailto:siddusuhaas124@gmail.com)
+[![Email](https://img.shields.io/badge/Email-say%20hi-2EB8F2?style=flat-square&logo=maildotru&logoColor=white)](mailto:suhas@suhasp.dev)
 
 ---
 
@@ -29,17 +29,17 @@ Over 3 years production experience building secure firmware systems for embedded
 - Secure OTA systems: streaming AES-256-CBC decryption, RSA-2048 verification, downgrade protection on AMLOGIC/CVITEK SoCs
 - Reverse engineered proprietary BTC miner firmware (zero vendor docs) using logic analyzer, Wireshark, and Ghidra; built production replacement firmware on ESP32 with FreeRTOS
 - Fleet reliability: 95% → 99.9% uptime through heap leak and IPC race condition fixes
-- STM32 Linux-capable MPU: userspace debugging, systemd service management and firmware development
+- STM32 embedded Linux: userspace debugging (GDB, dmesg), systemd service management
 
 ---
 
 ## Stack
 
 **Languages:** Embedded C, Python, Rust (log parser CLI)  
-**Linux:** Userspace debugging (GDB, Valgrind, strace), dmesg/OOM/kernel panic analysis, Buildroot, U-Boot, Yocto  
-**Platforms:** AMLOGIC SoCs (initd), CVITEK SoCs (initd), STM32 Linux MPU (systemd)  
+**Linux:** Userspace debugging (GDB, Valgrind, strace), dmesg/OOM/kernel panic analysis, Buildroot, U-Boot  
+**Platforms:** AMLOGIC SoCs (initd), CVITEK SoCs (initd), STM32 embedded Linux (systemd)  
 **Protocols:** I2C, UART, TCP/IP  
-**Hardware & Analysis:** Logic analyzers, Wireshark, Ghidra, oscilloscope (signal capture)  
+**Hardware & Analysis:** Logic analyzers, Wireshark, Ghidra  
 **Tools:** GitLab CI/CD, crosstool-ng, GDB cross-debugging
 
 ---
