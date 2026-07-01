@@ -29,7 +29,7 @@ Over 3 years production experience building secure firmware systems for embedded
 - Secure OTA systems: streaming AES-256-CBC decryption, RSA-2048 verification, downgrade protection on AMLOGIC/CVITEK SoCs
 - Reverse engineered proprietary BTC miner firmware (zero vendor docs) using logic analyzer, Wireshark, and Ghidra; built production replacement firmware on ESP32 with FreeRTOS
 - Fleet reliability: 95% → 99.9% uptime through heap leak and IPC race condition fixes
-- STM32 Linux-capable MPU: custom embedded Linux builds (Yocto), userspace debugging, systemd service management
+- STM32 Linux-capable MPU: userspace debugging, systemd service management and firmware development
 
 ---
 
